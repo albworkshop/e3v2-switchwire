@@ -11,3 +11,5 @@ SIBOOR-E3-SW : https://github.com/Lzhikai/SIBOOR-E3-SW/tree/main
 
 ## printed parts 
 Perfect quality from https://github.com/Frigolol
+
+<img src="https://i.imgur.com/ZWnhY9T.png](https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/DSC04752%201.jpg?raw=true" width="200">
