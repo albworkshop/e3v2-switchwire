@@ -13,6 +13,8 @@ SIBOOR-E3-SW : https://github.com/Lzhikai/SIBOOR-E3-SW/tree/main
 Perfect quality from Frig  
 https://github.com/Frigolol  
 
+<img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/DSC04746.jpg?raw=true" width="300"> <img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/DSC04747.jpg?raw=true" width="300">
+
 <img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/DSC04752%201.jpg?raw=true" width="300"> <img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/DSC04749%201.jpg?raw=true" width="300">
 
 
