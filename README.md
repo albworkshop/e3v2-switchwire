@@ -19,3 +19,7 @@ Video resources
 
 ModBotArmy : https://www.youtube.com/watch?v=hlfd_-uwR8g&list=PLiiEyXLrqIBQv4XW-tWv395seKSb_9VrZ  
 Crys' Livingroom Workbench : https://www.youtube.com/watch?v=E9Zg78foBmE
+
+
+mainboard : BTT SKR MINI E3 V3.0 https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/tree/master/hardware/BTT%20SKR%20MINI%20E3%20V3.0/Hardware  
+z sensor : BTT EDDY
