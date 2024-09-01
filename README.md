@@ -15,7 +15,9 @@ https://github.com/Frigolol
 <img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/IMG_2522.jpg?raw=true" width="300">
 <img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/IMG_2527.jpg?raw=true" width="300">  
 
-<img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/DSC04746.jpg?raw=true" width="300"> <img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/DSC04747.jpg?raw=true" width="300"> <img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/DSC04752%201.jpg?raw=true" width="300"> <img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/DSC04749%201.jpg?raw=true" width="300">
+<img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/DSC04746.jpg?raw=true" width="300"> <img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/DSC04747.jpg?raw=true" width="300"> <img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/DSC04752%201.jpg?raw=true" width="300"> <img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/DSC04749%201.jpg?raw=true" width="300">  
+
+<img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/DSC04942.jpg?raw=true" width="300">
 
 
 ## Video resources
