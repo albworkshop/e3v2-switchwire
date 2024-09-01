@@ -13,6 +13,8 @@ SIBOOR-E3-SW : https://github.com/Lzhikai/SIBOOR-E3-SW/tree/main
 Perfect quality from Frig  
 https://github.com/Frigolol  
 
+<img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/DSC04746.jpg?raw=true" width="300"> <img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/DSC04747.jpg?raw=true" width="300">
+
 <img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/DSC04752%201.jpg?raw=true" width="300"> <img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/DSC04749%201.jpg?raw=true" width="300">
 
 
@@ -22,6 +24,6 @@ Crys' Livingroom Workbench : https://www.youtube.com/watch?v=E9Zg78foBmE
 
 ## Parts
 mainboard : BTT SKR MINI E3 V3.0 https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/tree/master/hardware/BTT%20SKR%20MINI%20E3%20V3.0/Hardware  
-z sensor : BTT EDDY
-hotend : E3D v6 clone
-Motors : stepper online 17HS15-1504S-X1
+z sensor : BTT EDDY  
+hotend : E3D v6 clone  
+Motors : stepper online 17HS15-1504S-X1  
