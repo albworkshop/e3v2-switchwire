@@ -34,8 +34,8 @@ Motors : stepper online 17HS15-1504S-X1
 ## recalibrate eddy
 
 Place toolhead at 20mm above the beb
-> LDC_CALIBRATE_DRIVE_CURRENT CHIP=btt_eddy
+> LDC_CALIBRATE_DRIVE_CURRENT CHIP=btt_eddy  
 > SAVE_CONFIG
 
-> PROBE_EDDY_CURRENT_CALIBRATE_AUTO CHIP=btt_eddy
+> PROBE_EDDY_CURRENT_CALIBRATE_AUTO CHIP=btt_eddy  
 > SAVE_CONFIG
