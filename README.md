@@ -29,3 +29,13 @@ mainboard : BTT SKR MINI E3 V3.0 https://github.com/bigtreetech/BIGTREETECH-SKR-
 z sensor : BTT EDDY https://github.com/bigtreetech/Eddy  
 hotend : E3D v6 clone  
 Motors : stepper online 17HS15-1504S-X1  
+
+
+## recalibrate eddy
+
+Place toolhead at 20mm above the beb
+> LDC_CALIBRATE_DRIVE_CURRENT CHIP=btt_eddy
+> SAVE_CONFIG
+
+> PROBE_EDDY_CURRENT_CALIBRATE_AUTO CHIP=btt_eddy
+> SAVE_CONFIG
