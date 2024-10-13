@@ -26,7 +26,7 @@ Crys' Livingroom Workbench : https://www.youtube.com/watch?v=E9Zg78foBmE
 
 ## Parts
 mainboard : BTT SKR MINI E3 V3.0 https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/tree/master/hardware/BTT%20SKR%20MINI%20E3%20V3.0/Hardware  
-z sensor : BTT EDDY https://github.com/bigtreetech/Eddy  
+z sensor : BTT EDDY USB https://github.com/bigtreetech/Eddy  
 hotend : E3D v6 clone  
 Motors : stepper online 17HS15-1504S-X1  
 
