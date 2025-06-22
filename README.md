@@ -40,6 +40,14 @@ Place toolhead at 20mm above the beb
 > PROBE_EDDY_CURRENT_CALIBRATE_AUTO CHIP=btt_eddy  
 > SAVE_CONFIG
 
-## SKR mini E# V#
+## SKR mini E3 V3
 <img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/tech/skr_mini_e3_v3.jpg?raw=true" width="300"> <img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/tech/skr_mini_e3_v3-pinout.jpg?raw=true" width="300">
+
+## toolhead boards
+<img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/tech/S46f78d1e6a37489397dfff8deba7ced.jpg?raw=true" width="300">
+<img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/tech/S591b9e9fb8cc4680b971b815731a84e.jpg?raw=true" width="300">
+<img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/tech/S6caa1fb487124002b9cc228695423eb.jpg?raw=true" width="300">
+<img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/tech/S8178b6ba37134ad281e71415699f78e.jpgraw=true" width="300">
+<img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/tech/Sdb3564a2cb7a4d77a6b7ff1d7205ac7.jpgraw=true" width="300">
+
 
