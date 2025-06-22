@@ -39,3 +39,7 @@ Place toolhead at 20mm above the beb
 
 > PROBE_EDDY_CURRENT_CALIBRATE_AUTO CHIP=btt_eddy  
 > SAVE_CONFIG
+
+## SKR mini E# V#
+<img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/tech/skr_mini_e3_v3.jpg?raw=true" width="300"> <img src="https://github.com/albworkshop/e3v2-switchwire/blob/master/pictures/tech/skr_mini_e3_v3-pinout.jpg?raw=true" width="300">
+
